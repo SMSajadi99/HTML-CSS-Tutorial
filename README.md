@@ -14,7 +14,7 @@ To make this easy to understand, I’m going to refer to these three web languag
 
 ## HTML
 
-    The Body
+* The Body
     HyperText Markup Language (HTML)
     Content and basic structure
     Describes and defines
