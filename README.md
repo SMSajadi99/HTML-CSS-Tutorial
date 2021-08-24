@@ -20,3 +20,12 @@ To make this easy to understand, I’m going to refer to these three web languag
 * Describes and defines
 * Made up of tags
 * Tells the browser what to display
+
+
+HyperText Markup Language (HTML) can be broken down into HyperText, which is what grants access to other texts through links, and Markup which outlines the basic structure and appearance of raw text. What this means is that HTML describes and defines the content and basic structure of the website. It does this through a means of special tags or codes which tell the browser what to do. HTML is the bare basics of a website.
+
+
+An HTML only website can be compared to a functioning human body. Note, I didn’t say fully-functional. An HTML only website has all of its body parts, although it doesn’t offer much to look at because it doesn’t have any accessories or personal style. At this stage, it’s also a body which is not capable of moving or speaking. A website which consists of only HTML would probably look a little like this:
+
+
+This is where CSS comes in.
