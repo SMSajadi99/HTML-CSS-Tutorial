@@ -15,8 +15,8 @@ To make this easy to understand, I’m going to refer to these three web languag
 ## HTML
 
 * The Body
-    HyperText Markup Language (HTML)
-    Content and basic structure
-    Describes and defines
-    Made up of tags
-    Tells the browser what to display
+* HyperText Markup Language (HTML)
+* Content and basic structure
+* Describes and defines
+* Made up of tags
+* Tells the browser what to display
