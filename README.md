@@ -29,3 +29,12 @@ An HTML only website can be compared to a functioning human body. Note, I didnâ€
 
 
 This is where CSS comes in.
+
+## CSS
+
+
+* The Accessories
+* Cascading Style Sheet (CSS)
+* Gives style and structure to the content
+* Link the CSS file to the HTML
+* Tells the browser how to display
